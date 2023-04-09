@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Platform';
+    src: local('Platform Medium'), local('Platform-Medium'),
+        url('Platform-Medium.woff2') format('woff2'),
+        url('Platform-Medium.woff') format('woff'),
+        url('Platform-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
